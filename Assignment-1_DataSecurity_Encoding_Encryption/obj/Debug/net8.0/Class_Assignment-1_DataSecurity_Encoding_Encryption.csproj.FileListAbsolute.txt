@@ -1,0 +1,1 @@
+C:\Users\olanr\Documents\GEORGIAN\WINTER\BDAT_1001\ASS_WK3_NEW\Assignment-1_DataSecurity_Encoding_Encryption\Assignment-1_DataSecurity_Encoding_Encryption\obj\Debug\net8.0\Class_Assignment-1_DataSecurity_Encoding_Encryption.GeneratedMSBuildEditorConfig.editorconfig
